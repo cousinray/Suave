@@ -1,0 +1,39 @@
+h1{
+    font: bold 40px monaco;
+    
+}
+
+header {
+    display:block;
+}
+
+#cont{
+    background-image:url("Function/Grand canyon.jpg");
+}
+#entire_body{
+    border: 1px solid black;
+    width:1200px;
+    margin: 20px auto;
+    text-align: left;
+}
+
+#heading_1{
+    background-color: darkslategrey;
+    color:white;
+    border: 1px solid black;
+    padding: 20px;
+}
+
+#jumbotron {
+margin:20px auto;
+background-position: 0% 25%;
+padding:5px;
+border: 2px solid black;
+}
+#well {
+margin:0px auto;
+background-position: 0% 25%;
+padding:1px;
+border: 2px solid black;
+}
+
